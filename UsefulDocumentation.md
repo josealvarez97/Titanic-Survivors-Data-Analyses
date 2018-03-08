@@ -4,3 +4,6 @@
 
 [pandas.DataFrame.hist](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.hist.html)
 
+[Jupyter Notebooks are Breathtakingly Featureless — Use Jupyter Lab](https://towardsdatascience.com/jupyter-notebooks-are-breathtakingly-featureless-use-jupyter-lab-be858a67b59d)
+
+[Probability to z-score and vice versa in python](https://stackoverflow.com/questions/20864847/probability-to-z-score-and-vice-versa-in-python)
