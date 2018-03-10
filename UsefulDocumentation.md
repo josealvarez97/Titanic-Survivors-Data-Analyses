@@ -21,3 +21,8 @@
 [Statistical Power Analysis](http://www.introspective-mode.org/statistical-power-analysis/)
 
 [Effect size](https://en.wikipedia.org/wiki/Effect_size#Cohen's_d)
+
+[Hypothesis Test: Difference Between Means](http://stattrek.com/hypothesis-test/difference-in-means.aspx?Tutorial=AP)
+
+# LaTex
+[Spacing in math mode](https://www.sharelatex.com/learn/Spacing_in_math_mode)
