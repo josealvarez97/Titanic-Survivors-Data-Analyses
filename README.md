@@ -7,9 +7,9 @@ Statistical analyses performed in a data set containing information about the pa
 
 # Outline
 
-* The [report](/Report/ReportDraft.pdf) is the original paper submitted back in the Spring of 2018, as part of a required college assignment. It is the best description of the statistical analyses that I performed.
+* The **[report](/Report/ReportDraft.pdf)** is a condensed version of the original paper submitted back in the Spring of 2018, as part of a required college assignment. It is the best description of the statistical analyses that I performed.
 
-* [Appendix A](Appendix%20A%20-%20Computations%20and%20Data%20Analyses%20(Jupyter%20Notebooks)) contains the code I wrote to compute the statistical analyses. There are many explanatory comments and graphs on each of the different Jupyter Notebooks. More specifically:
+* **[Appendix A](Appendix%20A%20-%20Computations%20and%20Data%20Analyses%20(Jupyter%20Notebooks))** contains the code I wrote to compute the statistical analyses. There are many explanatory comments and graphs on each of the different Jupyter Notebooks. More specifically:
   * [ConditionalProbability-PassgersSurvival-ByClassAndAge.ipynb](Appendix%20A%20-%20Computations%20and%20Data%20Analyses%20(Jupyter%20Notebooks)/ConditionalProbability-PassgersSurvival-ByClassAndAge.ipynb) applies Bayesian Inference methods to determine the probability of survival of passengers given class and age.
   * [Mean-Age-Of-Children-Groups-Estimation.ipynb](Mean-Age-Of-Children-Groups-Estimation.ipynb) contains computations for determining confidence intervals of the age of different children groups. 
   * [RandomBernoulliTrials-Distributions-ParentsAttemptsToSaveChildren.ipynb](RandomBernoulliTrials-Distributions-ParentsAttemptsToSaveChildren.ipynb) contains analyses that attempt to answer research questions such as "how many attempts do parents needed to save their children?" where an attempt is understood as having to ask for an escape route for one of their children. Strong assumptions are made and these are explained in the report.
