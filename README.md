@@ -1,7 +1,7 @@
 # Titanic-Survivors-Data-Analyses
 Statistical analyses performed in a data set containing information about the passengers in the Titanic disaster of 1912. Data set from Kaggle: https://www.kaggle.com/c/titanic
 
-This is a college assignment finished in the spring of 2018 that I have made public. Any changes since then have been performed mainly for improving the presentation.
+**This is a college assignment finished in the spring of 2018 that I have made public. Any changes since then have been performed mainly for improving the presentation.**
 
 
 
