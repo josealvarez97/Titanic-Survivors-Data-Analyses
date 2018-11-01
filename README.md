@@ -18,4 +18,4 @@ Statistical analyses performed in a data set containing information about the pa
   
 ## Update:
 
-I have to mention that I performed these analyses when I was a still a freshman in early 2018. I stand by my work, but I have gained new knowledge and improved the quality of my practices in each of my works since then. I hope to keep uploading new assignments that I consider relevant to demonstrate that I have experience with particular technologies, methods, etc., and also evidence my new skills.
+I recall that I performed these analyses when I was a still a freshman in early 2018. I stand by my work, but I have gained new knowledge and improved the quality of my practices in each of my works since then. I hope to keep uploading new assignments that I consider relevant to demonstrate that I have experience with particular technologies, methods, etc., and also evidence my new skills.
