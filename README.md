@@ -14,7 +14,7 @@ Statistical analyses performed in a data set containing information about the pa
   * [Mean-Age-Of-Children-Groups-Estimation.ipynb](Mean-Age-Of-Children-Groups-Estimation.ipynb) contains computations for determining confidence intervals of the age of different children groups. 
   * [RandomBernoulliTrials-Distributions-ParentsAttemptsToSaveChildren.ipynb](RandomBernoulliTrials-Distributions-ParentsAttemptsToSaveChildren.ipynb) contains analyses that attempt to answer research questions such as "how many attempts do parents needed to save their children?" where an attempt is understood as having to ask for an escape route for one of their children. Strong assumptions are made and these are explained in the report.
   * [SignificanceTest-Of-Surviving-and-NonSuriving-ChildrenMeanAge-Difference.ipynb](Appendix%20A%20-%20Computations%20and%20Data%20Analyses%20(Jupyter%20Notebooks)/Mean-Age-Of-Children-Groups-Estimation.ipynb) I ran significance test on various research hypotheses. This was one of the main features of the assignment.
-  
+* Others folders are of relative less importance (e.g., *data*, *Appendix J - Playing with the data and some junk*). But I aknowledge that they are there, for reference.
   
 ## Update:
 
